@@ -42,14 +42,7 @@ const produtoModel = {
             throw error;
         }
     },
-    atualizarProduto: async (idProduto, nomeProduto, valorProduto, idCategoria, vinculoImagem) => {
-        try {
 
-        } catch (error) {
-            
-        }
-
-    },
 };
 
 export default produtoModel;
